@@ -40,6 +40,8 @@
 - [ ] Attempt the [classic TTD Redux-React tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [ ] Attempt the [Phoenix framework and PosgreSQL](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1) for backend with the familiar stack for front-end
 - [ ] Attempt the [Scotch's tutorial on Twitter stream with Node and ReactJS](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+- [ ] [Lynda Learn React.js: The Basics](https://www.lynda.com/React.js-tutorials/Up-Running-React.js/379264-2.html)
+- [ ] [Lynda Learning Full-stack JS Dev: MongoDB, Node and React](https://www.lynda.com/Express-js-tutorials/Learning-Full-Stack-JavaScript-Development-MongoDB-Node-React/533304-2.html)
 - [ ] Write my own test specs for the Scotch project with ChaiJS at least
 - [ ] Write reviews for these attempts
 - [ ] If my React-Redux knowledge is still not concrete after these, I'll buy Wes Bos's React for beginners course and study it thoroughly (op)
