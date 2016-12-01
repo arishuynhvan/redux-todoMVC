@@ -7,6 +7,7 @@
 2. [Client - Logic Immplementation](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
 
 3. [Original Repo by Nicolas Goutay](https://github.com/phacks/redux-todomvc)
+
 ## What I've learned
 
 - Data structure for implementing React into MVC
