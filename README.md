@@ -30,7 +30,9 @@
 - How to use the react, redux dev tools to observe state and debug?
 - React Router was not mentioned in this tutorial? Is there an alternative method that uses react router?
 - There is no back-end for this application.
+
   => How should I set up my webpack to connect with NodeJS and Express for the backend to write the to-do list to a JSON file locally and retrieve it after reloading the page?
+
   => Alternatively, how do I use LocalStorageAPI with this existing app for storing JSON object of todoItems in my browser.
 
 ## Future Directions
